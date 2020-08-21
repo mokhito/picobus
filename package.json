@@ -1,0 +1,11 @@
+{
+  "name": "picobus",
+  "version": "0.0.1",
+  "description": "Tiny message bus for node",
+  "main": "index.js",
+  "author": "mokhito",
+  "license": "GPLv3",
+  "dependencies": {
+    "mqtt": "^4.2.0"
+  }
+}
